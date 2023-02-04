@@ -2,7 +2,7 @@
 // author:  root@mvu.one
 // desc:    A small demo of a complex parallax scene
 // site:    mvu.one
-// license: MIT
+// license: Lines 9-63: CC0, everything else proprietary.
 // version: 0.1
 // script:  js
 
