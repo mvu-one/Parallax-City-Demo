@@ -1,7 +1,7 @@
 # Parallax City Demo
 A tiny TIC-80 Demo of a multi-layer parallax background 
 
-![Example of exciting gameplay](parallax.gif)
+![Example of exciting gameplay](parallax-preview.gif)
 
 To load the file into your TIC-80 you'll need the "PRO" version (allows text files) found [here](https://nesbox.itch.io/tic80)
 
